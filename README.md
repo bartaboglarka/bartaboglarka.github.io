@@ -1,2 +1,2 @@
 # bartaboglarka.github.io
-Dmo page
+Demo page
